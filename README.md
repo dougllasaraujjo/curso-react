@@ -17,6 +17,9 @@ Este projeto é um aplicativo web construído com ReactJS que consome a API do T
 
 ## Como Executar o Projeto
 1. **Clone o Repositório**:
+2. **Instale as Dependências**:
+3. **Execute o Projeto**:
+
 
 ## Estrutura do Projeto
 - `/src`: Contém todos os componentes React, páginas e estilos.
